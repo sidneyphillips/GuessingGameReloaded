@@ -16,5 +16,10 @@ public class GuessingGame {
 // Do you have time to talk about our svior dwayne the rock johnsonsss
 
 // stromboli isn't italian no matter how italian it sounds, fact of the day
+<<<<<<< HEAD
 //suprise
 //sssjnknsf
+=======
+//suprise
+//go
+>>>>>>> branch 'master' of https://github.com/sidneyphillips/GuessingGameReloaded.git
